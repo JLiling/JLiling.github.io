@@ -683,10 +683,10 @@ h6::before {
   border-radius: 10px!important;
 }
 .aplayer.aplayer-fixed{
-  left: -300px;
+  left: -300px !important;
 }
 .contact-info .option:hover .aplayer.aplayer-fixed .aplayer-body,.contact-info .option:hover .aplayer.aplayer-fixed{
-  left: 0px;
+  left: 0px !important;
 }
 .contact-info .option:hover .text{
   left: 60px;
