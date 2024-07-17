@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://jliling.github.io/undefined/4090.html</loc>
     
     <lastmod>2024-07-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/undefined/4a17b156.html</loc>
+    <loc>https://jliling.github.io/undefined/4a17b156.html</loc>
     
     <lastmod>2024-07-17</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/undefined/4090.html</loc>
+    <loc>https://jliling.github.io/manifest.json</loc>
     
     <lastmod>2024-07-17</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://jliling.github.io/</loc>
     <lastmod>2024-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -38,7 +38,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://jliling.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
