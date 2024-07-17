@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/undefined/4090.html</loc>
+    <loc>http://example.com/manifest.json</loc>
     
     <lastmod>2024-07-17</lastmod>
     
@@ -20,9 +20,9 @@
   </url>
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>http://example.com/undefined/4090.html</loc>
     
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2024-07-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
