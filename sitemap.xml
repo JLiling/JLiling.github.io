@@ -4,7 +4,7 @@
   <url>
     <loc>https://exschwi.github.io/manifest.json</loc>
     
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://exschwi.github.io/link/index.html</loc>
     
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,16 +22,7 @@
   <url>
     <loc>https://exschwi.github.io/music/index.html</loc>
     
-    <lastmod>2026-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://exschwi.github.io/privacy/index.html</loc>
-    
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,79 +31,16 @@
   <url>
     <loc>https://exschwi.github.io/tags/index.html</loc>
     
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://exschwi.github.io/posts/39264.html</loc>
+    <loc>https://exschwi.github.io/privacy/index.html</loc>
     
-    <lastmod>2026-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://exschwi.github.io/posts/31745.html</loc>
-    
-    <lastmod>2026-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://exschwi.github.io/posts/4090.html</loc>
-    
-    <lastmod>2026-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://exschwi.github.io/about/index.html</loc>
-    
-    <lastmod>2026-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://exschwi.github.io/archives/index.html</loc>
-    
-    <lastmod>2026-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://exschwi.github.io/categories/index.html</loc>
-    
-    <lastmod>2026-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://exschwi.github.io/cc/index.html</loc>
-    
-    <lastmod>2026-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://exschwi.github.io/cookies/index.html</loc>
-    
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +49,79 @@
   <url>
     <loc>https://exschwi.github.io/posts/4a17b156.html</loc>
     
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://exschwi.github.io/posts/39264.html</loc>
+    
+    <lastmod>2026-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://exschwi.github.io/posts/31745.html</loc>
+    
+    <lastmod>2026-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://exschwi.github.io/posts/4090.html</loc>
+    
+    <lastmod>2026-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://exschwi.github.io/about/index.html</loc>
+    
+    <lastmod>2026-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://exschwi.github.io/archives/index.html</loc>
+    
+    <lastmod>2026-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://exschwi.github.io/categories/index.html</loc>
+    
+    <lastmod>2026-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://exschwi.github.io/cc/index.html</loc>
+    
+    <lastmod>2026-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://exschwi.github.io/cookies/index.html</loc>
+    
+    <lastmod>2026-09-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +130,7 @@
 
   <url>
     <loc>https://exschwi.github.io/</loc>
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,14 +138,14 @@
   
   <url>
     <loc>https://exschwi.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://exschwi.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -154,14 +154,14 @@
   
   <url>
     <loc>https://exschwi.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://exschwi.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
